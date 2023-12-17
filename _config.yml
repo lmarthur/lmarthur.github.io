@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lucas Arthur"
   avatar           : "film_headshot.jpg"
-  bio              : "Technical Associate in the MIT Laboratory for Nuclear Security and Policy"
+  bio              : "Technical Associate"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "MIT Laboratory for Nuclear Security and Policy"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0002-9317-1169"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

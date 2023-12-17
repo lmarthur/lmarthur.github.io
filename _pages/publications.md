@@ -15,6 +15,7 @@ author_profile: true
 L.M. Arthur, D. Lawrence, and M.D. Price, “Probabilistic Reconstruction of Paleodemographic Signals,” (2023), arXiv:2312.05152 [stat.AP].
 
 [View paper here](http://arxiv.org/abs/2312.05152)
+
 <!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

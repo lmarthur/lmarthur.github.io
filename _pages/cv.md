@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon!
+A PDF version of my (probably outdated) CV can be found [here](http://lmarthur.github.io/files/CV_lmarthur.pdf).
 
 <!-- 
 Education

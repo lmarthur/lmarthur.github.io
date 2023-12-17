@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lucas Arthur"
   avatar           : "film_headshot.jpg"
-  bio              : "Technical Associate"
+  bio              : "Technical Associate in the MIT Laboratory for Nuclear Security and Policy"
   location         : "Cambridge, MA"
-  employer         : "MIT Laboratory for Nuclear Security and Policy"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :

@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 A PDF version of my (probably outdated) CV can be found [here](http://lmarthur.github.io/files/CV_lmarthur.pdf).
+
+-->
 
 <!-- 
 Education

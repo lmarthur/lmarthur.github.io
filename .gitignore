@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# vim swap files
+*.swp
